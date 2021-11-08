@@ -1,14 +1,12 @@
 # Hello there :wave:!
 I'm Devon and I'm a Software Solutions Consultant and CTO. 
 
-I work primarily in JavaScript and PHP frameworks building cloud-native web applications deployed in AWS and GCP. 
+I work primarily in JavaScript (React, Vue) and PHP (Laravel) frameworks building cloud-native web applications.
 
-And more improtantly I work to lead and empower engineers to do their best work on products/solutions that really matter.
+My aim is to be an engineer who does their best work on products/solutions that really matter. And empower others to do the same.
 
-Companies:
-- 💼 [Mobley Consulting](https://mobley.dev)
-- 🧐 [Smarter Firms](https://github.com/smarterfirms/)
-- 👍 [Rate My Business](https://github.com/rate-my-business)
 - ⚕  [Calvient Health](https://www.calvient.com/)
+- 💼 [Mobley Consulting](https://mobley.dev)
+- 👍 [Rate My Business](https://ratemyidea.co)
 ---
 Devon Mobley | [https://mobley.dev](https://mobley.dev)
