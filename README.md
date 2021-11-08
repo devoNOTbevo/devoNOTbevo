@@ -1,5 +1,4 @@
-# Hello there :wave:!
-I'm Devon and I'm a Software Solutions Consultant and CTO. 
+# Howdy. I'm Devon.
 
 I work primarily in JavaScript (React, Vue) and PHP (Laravel) frameworks building cloud-native web applications.
 
